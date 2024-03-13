@@ -24,7 +24,17 @@ class Skills extends SoftwareDeveloper {
   frameworks = ['Spring framework', 'Laravel', 'Flutter', 'Angular'];
 }
 ```
+<!--<br/>
 <br/>
+<h2 align="left"> 📈 Github Profile Stats </h2>
+<p align="center">
+    <a href="https://github.com/3nr19u3">
+        <img height="180em" src="https://streak-stats.demolab.com?user=hungpham3112&theme=tokyonight&hide_border=true&border_radius="/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3n19u3&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3n19u3&hide_border=true&layout=compact&theme=tokyonight&hide=jupyter%20notebook"/>
+    </a>
+</p>-->
+
 <br/>
 <h2 align="left"> Competitive Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <br/>
